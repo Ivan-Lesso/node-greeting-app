@@ -1,0 +1,9 @@
+> What is a Node module?
+
+A set of functions you want to include in your application.
+
+> What is the main difference between exports and module.exports?
+
+module.exports is the object returned from require(). “exports” is just a convenience variable so module authors can write less code.
+
+> Why is using exports recommended?
